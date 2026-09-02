@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/profile.svg" width="300" alt="Profile photo">
+</p>
 # Hi there, I'm Ayanangshu Goswami 👋
 
 ⚡ **Full Stack Developer | AI & ML Enthusiast | Software Engineer**
