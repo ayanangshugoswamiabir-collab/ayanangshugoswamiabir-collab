@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile.svg" width="300" alt="Profile photo">
+  <img src="./assets/profile-animation.gif" width="300" alt="Profile photo">
 </p>
 # Hi there, I'm Ayanangshu Goswami 👋
 
